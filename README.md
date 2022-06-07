@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shinji Momoi</h1>
 <h3 align="center">A passionate frontend developer from Japan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shinjimomoi&label=Profile%20views&color=0e75b6&style=flat" alt="shinjimomoi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shinjimomoi" alt="shinjimomoi" /></a> </p>
 
 - 🔭 I’m currently looking for a job as **web developer**
 
