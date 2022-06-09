@@ -2,8 +2,6 @@
 <h3 align="center">I'm front-end developer from Japan</h3>
 
 
-- 🔭 I’m currently looking for a job as **web developer**
-
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Html, Css, Photoshop, Illustrator**
