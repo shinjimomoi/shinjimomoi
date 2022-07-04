@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I like to do street photography**
 
-- You can see my portfolio <a href="https://shinjimomoi.github.io/profile/" target="blank">here</a>
+-  You can see my portfolio <a href="https://shinjimomoi.github.io/profile/" target="blank">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
